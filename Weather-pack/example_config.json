@@ -1,0 +1,35 @@
+{
+  "api_key": "YOUR_OPENWEATHERMAP_API_KEY_HERE",
+  "location": "New York City",
+  "host": "127.0.0.1",
+  "base_port": 7410,
+  "poll_interval": 1800,
+  "units": "imperial",
+  "ranges": {
+    "temp": {
+      "min": 0,
+      "max": 100,
+      "unit": "F"
+    },
+    "wind": {
+      "min": 0,
+      "max": 25,
+      "unit": "mph"
+    },
+    "rain": {
+      "min": 0,
+      "max": 5,
+      "unit": "mm"
+    },
+    "pressure": {
+      "min": 980,
+      "max": 1040,
+      "unit": "hPa"
+    },
+    "humidity": {
+      "min": 0,
+      "max": 100,
+      "unit": "%"
+    }
+  }
+}
