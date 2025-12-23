@@ -1,5 +1,6 @@
 {
-  "api_key": "da180be4ea47a776e95e1df91d530e2d",
+  # input your own API key here
+  "api_key": "{api_key}",
   "location": "New York",
   "host": "127.0.0.1",
   "base_port": 7400,
